@@ -1,0 +1,4 @@
+interface:
+  display_name: "User Attention Alert"
+  short_description: "Speak when user action is needed."
+  default_prompt: "Alert me when you need my action."
