@@ -1,0 +1,4 @@
+interface:
+  display_name: "PowerShell Windows Reliability"
+  short_description: "Reliable PowerShell, Unicode path, and native CLI execution"
+  default_prompt: "Use $powershell-windows-reliability to run this Windows command safely and verify its output."
